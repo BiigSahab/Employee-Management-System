@@ -1,0 +1,14 @@
+Name: Ammar
+Department: Design
+Contact: 10
+Designation: Lead
+Salary: $250.0
+Status: Active
+
+Name: AB
+Department: marketing
+Contact: 23
+Designation: head
+Salary: $250.0
+Status: inactive
+
